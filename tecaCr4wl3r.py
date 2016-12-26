@@ -75,6 +75,6 @@ elif args.image:
         urls = teca.search(args.image,args.ext)
         for url in urls:
             print url
-            #save.img(url,url)
+            save.img(url,url)
 else:
     parser.print_help()

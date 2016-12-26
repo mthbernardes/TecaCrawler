@@ -74,3 +74,9 @@ optional arguments:
   -x EXT, --image-ext EXT
                         Specify image extension
 </pre>
+
+#Disclaimer
+<pre>
+I am not responsible for the use of this tool
+Research pourposes only!
+</pre>
